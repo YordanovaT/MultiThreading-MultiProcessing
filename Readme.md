@@ -5,6 +5,7 @@ This repo exercises multithreading and multiprocessing in Python. It includes:
    * #### Creating threads and assigning tasks to them  
    * #### Creating threads and synchronizing them using locks   
    * #### Changing text files using threads
+   * #### Analyzing time for executing I/O and CPU bound tasks with threads and processes
 
 All files are build using **Python 3.11**.
 
