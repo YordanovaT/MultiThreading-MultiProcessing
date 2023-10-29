@@ -23,12 +23,7 @@ All files are build using **Python 3.11**.
 
     venv\Scripts\activate
 
-**3. Install required dependencies**  
-*From the **root** directory run:* 
-
-    pip install -r requirements.txt  
-
-**4. Run the files**  
+**3. Run the files**  
 *From the **root** directory run:* 
 
     py the-python-file's-name.py  
